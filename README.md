@@ -2,8 +2,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=jehaad1&show_icons=false&theme=dark" />
 
 - **Beginner of multi-platform mobile development by Flutter**
-- **Creator of [Sky.js Library](https://sky-js.pages.dev)**
-- **Fan & lover for Firebase**
+- **Creator & founder of [Sky.js Library](https://sky-js.pages.dev)**
+- **Big fan of Firebase**
 - **Vite is the best tool ever for building complex web apps.**
 - **Admin of the "Programming Enrich" Telegram channel for publishing information about programming and technical stuff.**
 
