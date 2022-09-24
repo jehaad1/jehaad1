@@ -1,5 +1,5 @@
 # Hi, I'm Jehaad. Full-Stack web developer.
-<img src="https://github-readme-stats.vercel.app/api?username=jehaad1&show_icons=false&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=jehaad1&show_icons=false&theme=dark" /> <img width="200" src="https://assets.safcsp.cloud/programming-languages/jsFiveStars.svg" /> <img width="200" src="https://assets.safcsp.cloud/badges/dart2.png" />
 
 - **Beginner of multi-platform mobile development by Flutter**
 - **Creator & founder of [Sky.js Library](https://sky-js.pages.dev)**
