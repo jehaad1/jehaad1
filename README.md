@@ -9,4 +9,4 @@
 
 <img width="150" src="https://assets.safcsp.cloud/programming-languages/jsFiveStars.svg" /> <img width="150" src="https://assets.safcsp.cloud/badges/dart4.png" />
 
-## - Want to know more about me? <a href="https://new.jehaad.com" target="_blank">jehaad.com</a>
+## - Want to know more about me? <a href="https://new.jehaad.com" target="_blank">new.jehaad.com</a>
