@@ -1,6 +1,6 @@
 # Hi, I'm Jehaad. Full-Stack web developer.
 
-- **Beginner of multi-platform mobile development by Flutter**
+- **Beginner of multi-platform mobile development with Flutter**
 - **Creator of [Sky.js Library](https://sky-js.pages.dev)**
 
 <div align="center">
