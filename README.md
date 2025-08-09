@@ -4,9 +4,9 @@ I design and develop software solutions with a focus on scalability, reliability
 
 I have worked on projects ranging from web platforms and mobile apps to real-time systems, always aiming to create solutions that are efficient and user-friendly. I enjoy solving complex problems, exploring new tools, and collaborating with others to bring ideas to life.
 
-🌐 **Portfolio:** [jehaad.com](https://jehaad.com)
+**Portfolio:** [jehaad.com](https://jehaad.com)
 
----
+<br>
 
 ## Tech Stack
 
@@ -19,13 +19,13 @@ Node.js, Express, Fastify, Socket.io, Redis, Firebase, Convex
 **Tools & Platforms:**  
 Git, Docker, Clerk, Electron, Tauri, Zod
 
----
+<br>
 
 ## Featured Projects
 
 - **[Risha](https://risha.app)** – An easy-to-use writing and productivity platform
 
----
+<br>
 
 ## My Accounts
 
