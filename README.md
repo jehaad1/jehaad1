@@ -24,6 +24,7 @@ Git, Docker, Clerk, Electron, Tauri, Zod
 ## Featured Projects
 
 - **[Risha](https://risha.app)** – An easy-to-use writing and productivity platform
+- **[ShadowJS](https://github.com/shadowjs-dev/shadow)** - A truly reactive ui framework
 
 <br>
 
