@@ -11,7 +11,7 @@ I have worked on projects ranging from web platforms and mobile apps to real-tim
 ## Tech Stack
 
 **Frontend:**  
-HTML, CSS, JavaScript, TypeScript, React, React Native, Expo, React Query, Jotai, Solid, Qwik, Next.js, Tailwind CSS, Vite
+HTML, CSS, JavaScript, TypeScript, React, React Native, Lynx, Expo, React Query, Jotai, Solid, Qwik, Next.js, Tailwind CSS, Vite
 
 **Backend & Databases:**  
 Node.js, Express, Fastify, Socket.io, Redis, Firebase, Convex
