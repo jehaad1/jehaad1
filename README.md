@@ -23,6 +23,7 @@ Git, Docker, Clerk, Electron, Tauri, Zod
 
 ## Featured Projects
 
+- **[Deepbox](https://deepbox.dev)** - The TypeScript Toolkit for AI & Numerical Computing
 - **[Risha](https://risha.app)** – An easy-to-use writing and productivity platform
 - **[ShadowJS](https://github.com/shadowjs-dev/shadow)** - A truly reactive ui framework
 - **[Jehaad Studio](https://jehaad.studio)** - A personal space to showcase my hobbies in photography and filmmaking
