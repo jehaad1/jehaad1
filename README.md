@@ -32,7 +32,7 @@ Git, Docker, Clerk, Electron, Tauri, Zod
 
 ## My Accounts
 
-- **X:** [@Jehaad_ALJohani](https://x.com/Jehaad_ALJohani)
+- **X:** [@Jehaad](https://x.com/Jehaad)
 - **Threads:** [@jehaad_aljohani](https://www.threads.com/@jehaad_aljohani)
 - **LinkedIn:** [jehaad](https://linkedin.com/in/jehaad)
 - **Email:** [hi@jehaad.com](mailto:hi@jehaad.com)
